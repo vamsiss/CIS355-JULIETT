@@ -12,7 +12,7 @@
 
 ## Quick Start
 To use the Phonetic Generator, simply visit the hosted version at:
-[Phonetic Generator Live](https://example.com/phonetic-generator)
+[Phonetic Generator Live]https://vamsiss.github.io/CIS355-JULIETT/
 
 ## Usage
 1. **Enter Text**: Input your text in the designated field.
@@ -22,5 +22,3 @@ To use the Phonetic Generator, simply visit the hosted version at:
 ## Contributing
 If you'd like to contribute to the Phonetic Generator, please fork this repository and submit a pull request with your suggested changes.
 
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE.md) file.
