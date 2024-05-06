@@ -16,7 +16,7 @@ To use the Phonetic Generator, simply visit the hosted version at:
 
 ## Usage
 1. **Enter Text**: Input your text in the designated field.
-2. **Choose Phonetic Type**: Toggle between NATO and Civilian phonetics.
+2. **Choose Phonetic Type**: Toggle between developer and Civilian phonetics by default NATO.
 3. **Receive Output**: View the phonetic transcription in the output area immediately.
 
 ## Contributing
